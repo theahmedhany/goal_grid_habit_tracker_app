@@ -1,0 +1,69 @@
+name: goal_grid_habit_tracker_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.8
+  flutter_slidable: ^3.1.1
+  hive_flutter: ^1.1.0
+  hive: ^2.2.3
+  flutter_heatmap_calendar: ^1.0.5
+  msh_checkbox: ^2.0.1
+  flutter_native_splash: ^2.4.3
+  flutter_launcher_icons: ^0.14.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+  hive_generator: ^2.0.1
+
+
+
+flutter_native_splash:
+  color: "#f3f8f9"   # Color of the background of the splash screen 
+  image: assets/splash_screen.png  # image path
+  android_12:
+    image: assets/splash_screen.png  # image path
+    color: "#f3f8f9"   # Color of the background of the splash screen 
+
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"  # Logo image path 
+  min_sdk_android: 21
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
