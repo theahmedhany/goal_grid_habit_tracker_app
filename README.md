@@ -29,10 +29,10 @@ GoalGrid offers seamless habit-tracking functionality, providing valuable insigh
 
 ## Demo and Resources
 #### To see **GoalGrid** in action, check out the video below:
+https://github.com/user-attachments/assets/afb81d62-2e4e-442d-a0e2-9c480fe91c70
 
 
-
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-goalgrid-activity-7274711563687645187-AVAZ?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
